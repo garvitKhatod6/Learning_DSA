@@ -1,4 +1,4 @@
-/*Problem: Given integers a and b, compute a^b using recursion without using pow() function.
+/*Q9: Given integers a and b, compute a^b using recursion without using pow() function.
 
 Input:
 - Two space-separated integers a and b
@@ -14,6 +14,11 @@ Output:
 32
 
 Explanation: 2^5 = 2 * 2 * 2 * 2 * 2 = 32*/
+
+
+
+
+
 #include <stdio.h>
 
 
